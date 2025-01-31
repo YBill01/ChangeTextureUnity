@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3e55d071b4062458056f7a8e94e46a, type: 3}
+  m_Name: SlicerConfig
+  m_EditorClassIdentifier: 
+  toolMode: 1
+  autoCloseLineDistance: 12
+  textureItems:
+  - {fileID: 11400000, guid: 229ea56f5a2f3bc41a59867fd169be7c, type: 2}
+  - {fileID: 11400000, guid: a4a80098ddc06824a9445721287e63db, type: 2}
+  - {fileID: 11400000, guid: 6c204b5c152da6b4ea445b7ea3434896, type: 2}
+  - {fileID: 11400000, guid: 8045a7e79c2c2674e8d414804c75ae36, type: 2}
+  - {fileID: 11400000, guid: 85d2c53921d30b74f9b7551bb97ed0fa, type: 2}
+  - {fileID: 11400000, guid: 2435679bcfe59004abb59bc9705affe9, type: 2}
+  - {fileID: 11400000, guid: 9ab3272ec83da6e44a1b2ed630649cdf, type: 2}
+  - {fileID: 11400000, guid: aec96013ea6a22046b64d1bf14034f03, type: 2}
